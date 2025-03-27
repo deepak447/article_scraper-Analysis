@@ -1,0 +1,47 @@
+{
+    "description_1": {
+        "text": "SEBI is also examining whether IndusInd violated its disclosure norms, the report said",
+        "sentiment": {
+            "neg": 0.221,
+            "neu": 0.779,
+            "pos": 0.0,
+            "compound": -0.5267
+        }
+    },
+    "description_2": {
+        "text": "Jio Platforms was awarded the National Intellectual Property Awards by the Government of India and also recognized by the World Intellectual Property Organization (WIPO) for its outstanding achievements in technology and innovation at an event in New Delhi.",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.629,
+            "pos": 0.371,
+            "compound": 0.9578
+        }
+    },
+    "description_3": {
+        "text": "\"Roche has filed an appeal against the Hon. Delhi High Court order and the matter is subjudice in the appeal court,\" Roche Pharma India spokesperson told Moneycontrol.",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.959,
+            "pos": 0.041,
+            "compound": 0.0258
+        }
+    },
+    "description_4": {
+        "text": "The government is actively looking to increase its skilled and professional manpower base to tackle dynamic fields such as cybersecurity and Artifical Intelligence (AI) as the country plans to increase its transmission grid network by 34 percent till 2030, according to senior officials in the Ministry of Power.",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.773,
+            "pos": 0.227,
+            "compound": 0.891
+        }
+    },
+    "description_5": {
+        "text": "The report also calls for updating AC test procedures to better reflect India's humid climate, where comfort depends not just on cooling but on moisture removal.",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.866,
+            "pos": 0.134,
+            "compound": 0.4019
+        }
+    }
+}
