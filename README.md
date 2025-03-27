@@ -26,7 +26,7 @@ pip install requests beautifulsoup4 nltk matplotlib wordcloud google-generativea
 Execute the script to scrape articles and save them to `news_article.json`:
 
 ```sh
-python scraper.py
+python main.py
 ```
 
 ### 2. Perform NLP Analysis
